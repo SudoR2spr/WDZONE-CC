@@ -6,7 +6,7 @@
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=WDZONE+CC+Tools+Version+%3A+1.1)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=WDZONE+CC+Tools+Version+%3A+1.1)](https://git.io/typing-svg)</p>
 <p align="center">
 
 # WDZONE CC
